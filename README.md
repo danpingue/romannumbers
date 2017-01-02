@@ -3,10 +3,10 @@
 
 2) Descarga tu copia en local
 
-3) Lee el códigod e prueba y, depsués, ejecútalas
+3) Lee el código de prueba y, después, ejecútalas
 
 4) Intenta corregir los errores en el código. Empieza por las pruebas más sencillas que fallen
 
-5) Cada vez que una prueba funcione ha commit
+5) Cada vez que una prueba funcione haz commit
 
-6) cuando todas funcionen haz pull y pull request.
+6) Cuando todas funcionen haz pull y pull request
